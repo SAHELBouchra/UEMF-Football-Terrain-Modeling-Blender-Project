@@ -58,11 +58,11 @@ This project focuses on building a realistic and animated 3D model of a football
   
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **Blender** – 3D modeling, texturing, animation
 
-## 🖼️ Gallery
+## Gallery
 
 <img width="650" height="656" alt="Field_above" src="https://github.com/user-attachments/assets/720ae8d9-78b1-41fa-b7d6-59746aa9f234" />
 <img width="800" height="647" alt="UEMF_2" src="https://github.com/user-attachments/assets/0c90e09f-f7d4-4f5b-b29f-7e14ec304b46" />
