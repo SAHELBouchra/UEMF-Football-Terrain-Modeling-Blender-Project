@@ -65,9 +65,9 @@ This project focuses on building a realistic and animated 3D model of a football
 ## 🖼️ Gallery
 
 <img width="703" height="656" alt="Field_above" src="https://github.com/user-attachments/assets/720ae8d9-78b1-41fa-b7d6-59746aa9f234" />
-![UEMF](https://github.com/user-attachments/assets/2e67fe56-be98-44e7-a138-45207db59ab2)
-![Zlij](https://github.com/user-attachments/assets/a0b82b2c-cd26-463e-b6e6-f3ca66257cbd)
 <img width="849" height="647" alt="UEMF_2" src="https://github.com/user-attachments/assets/0c90e09f-f7d4-4f5b-b29f-7e14ec304b46" />
+![All the field](https://github.com/user-attachments/assets/ab9267fd-01e8-473b-a3a2-f7ae4f0a6d03)
+
 
 
 
