@@ -37,12 +37,15 @@ This project focuses on building a realistic and animated 3D model of a football
 - Top panels created using **Boolean operations** and **Array Modifier**
 - Light boxes formed using scaled cubes
 
+  <img width="232" height="577" alt="Lightning Pole" src="https://github.com/user-attachments/assets/34dfae8b-8b21-4cd4-8e2f-5820201501b0" />
+
+
 ### Stadium Chairs
 - Modeled from basic cubes
 - Smoothed using **Subdivision Surface Modifier** and **Bevel**
 - Colored with different materials: blue, green, and orange
 
-<img width="386" height="320" alt="Seat2" src="https://github.com/user-attachments/assets/6f58510e-4866-4a34-b61e-4f9156b435e2" />
+<img width="300" height="320" alt="Seat2" src="https://github.com/user-attachments/assets/6f58510e-4866-4a34-b61e-4f9156b435e2" />
 
 
 ### Stadium Structure
